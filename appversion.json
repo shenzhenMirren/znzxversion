@@ -1,0 +1,24 @@
+{
+	"code": 200,
+	"msg": "成功",
+	"data": {
+		"type": 0,
+		"intro": "更新服务地址",
+		"iosurl": "http://testapi.bible.ac.cn",
+		"andurl": "http://testapi.bible.ac.cn",
+		"v3": {
+			"inside": {
+				"type": 0,
+				"intro": "更新服务地址",
+				"iosurl": "https://api.cfyzs.com",
+				"andurl": "https://api.cfyzs.com"
+			},
+			"outside": {
+				"type": 0,
+				"intro": "更新服务地址",
+				"iosurl": "https://zwapi.bfcm.cn",
+				"andurl": "https://zwapi.bfcm.cn"
+			}
+		}
+	}
+}
